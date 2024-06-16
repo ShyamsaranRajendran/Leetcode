@@ -27,7 +27,7 @@
 // Output: [1,0]
 // Explanation: The array represents the integer 9.
 // Incrementing by one gives 9 + 1 = 10.
-// Thus, the result should be [1,0].
+// Thus, the result should be [1,0]..
 
 
 
@@ -44,7 +44,7 @@ class Solution {
                 return digits;
             }
 
-            digits[i] = 0;
+            digits[i] = 0 ;
         }
 
         int newNum []=new int[n+1];
