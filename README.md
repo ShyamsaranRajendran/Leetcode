@@ -7,6 +7,7 @@ Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -22,6 +23,7 @@ Leetcode
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0011-container-with-most-water) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Counting
 |  |
@@ -58,4 +60,8 @@ Leetcode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
