@@ -9,6 +9,7 @@ Leetcode
 | [0001-two-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0016-3sum-closest) |
+| [0051-n-queens](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0055-jump-game) |
@@ -113,4 +114,8 @@ Leetcode
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
