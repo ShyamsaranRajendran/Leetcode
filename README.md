@@ -99,6 +99,7 @@ Leetcode
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -119,4 +120,8 @@ Leetcode
 | ------- |
 | [0051-n-queens](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0052-n-queens-ii) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
