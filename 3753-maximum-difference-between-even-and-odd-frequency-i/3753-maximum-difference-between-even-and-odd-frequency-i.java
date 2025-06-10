@@ -6,18 +6,17 @@ class Solution {
             apl[i-'a']++;
         }
         int max=0,min=s.length();
-        for(int i=0;i<26;i++)
+        for(int i:apl)
         {
-            if(apl[i]%2==1)
+            if(i%2==1)
             {
-                max=Math.max(apl[i],max);
+                max=Math.max(i,max);
             }
-            else if (apl[i]%2==0 && apl[i]!=0)
+            else
             {
-                min=Math.min(apl[i],min);
+                min=Math.min(i==0?s.length():i,min);
             }
         }
-        System.out.println(max + " "+ min);
         return max-min;
 
     }
