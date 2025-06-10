@@ -10,13 +10,11 @@ class Solution {
         {
             if(apl[i]%2==1)
             {
-                if(apl[i]>max)
-                 max=apl[i];
+                max=Math.max(apl[i],max);
             }
             else if (apl[i]%2==0 && apl[i]!=0)
             {
-                if(apl[i]<min)
-                min=apl[i];
+                min=Math.min(apl[i],min);
             }
         }
         System.out.println(max + " "+ min);
