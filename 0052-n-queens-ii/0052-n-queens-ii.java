@@ -1,88 +1,19 @@
 class Solution {
-
-    public boolean isSafe(char board[][],int row,int col){
-        int n = board.length;
-
-        for(int i=0;i<n;i++){   
-            if(board[row][i]=='Q') return false;
-        }
-       
-        for(int i=0;i<n;i++){   
-            if(board[i][col]=='Q') return false;
-        }
-
-       
-        int i=row;
-        int j= col;
-        while(i>=0 && j<n){
-            if(board[i][j] =='Q') return false;
-            i--;
-            j++;
-        }
-
-        
-        i=row;
-        j=col;
-        while(i<n && j<n){
-            if(board[i][j] =='Q') return false;
-            i++;
-            j++;
-        }
-
-      
-        i=row;
-        j=col;
-        while(j>=0 && i<n){
-            if(board[i][j] =='Q') return false;
-            i++;
-            j--;
-        }
-
-        i=row;
-        j=col;
-        while(i>=0 && j>=0){
-            if(board[i][j] =='Q') return false;
-            i--;
-            j--;
-        }
-        
-        return true;
-    }
-
-    public void setQueen(char board[][],int row,List<List<String>> ans){
-        int n = board.length;
-        if(row==n){
-            List<String> list = new ArrayList<>();
-            for(int i=0;i<n;i++){
-                String s ="";
-                for(int j=0;j<n;j++){
-                    s+=board[i][j];
-                }
-            list.add(s);
-            }
-            ans.add(list);
-            return;
-        }
-
-        for(int i=0;i<n;i++){
-            if(isSafe(board,row,i)){
-                board[row][i] ='Q';
-                setQueen(board,row+1,ans);
-                board[row][i] ='.';
-            }
-        }
-
-    }
     public int totalNQueens(int n) {
-        char board[][]  = new char[n][n];
-        List<List<String>> ans = new ArrayList<>();
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                board[i][j] ='.';
-            }
-            System.out.println();
+        return backtrack(0, n, new boolean[n], new boolean[n+n], new boolean[n+n]);
+    }
+
+    private int backtrack(int row, int n, boolean[] cols, boolean[] diag1, boolean[] diag2) {
+        if (row == n) {
+            return 1;
         }
-        setQueen(board,0,ans);
-        return ans.size();
+        int total = 0;
+        for (int col = 0; col < n; col++) {
+            if (cols[col] || diag1[row+col] || diag2[row - col + n-1]) continue;
+            cols[col] = diag1[row+col] = diag2[row - col + n -1] = true;
+            total += backtrack(row+1, n, cols, diag1, diag2);
+            cols[col] = diag1[row+col] = diag2[row - col + n -1] = false;
+        }
+        return total;
     }
 }
