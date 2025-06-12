@@ -2,16 +2,16 @@ class Solution {
 
     public boolean isSafe(char board[][],int row,int col){
         int n = board.length;
-        // chack row contain any other Queen
+
         for(int i=0;i<n;i++){   
             if(board[row][i]=='Q') return false;
         }
-        // chack col contain any other Queen
+       
         for(int i=0;i<n;i++){   
             if(board[i][col]=='Q') return false;
         }
 
-        // north east:
+       
         int i=row;
         int j= col;
         while(i>=0 && j<n){
@@ -20,7 +20,7 @@ class Solution {
             j++;
         }
 
-        //south east:
+        
         i=row;
         j=col;
         while(i<n && j<n){
@@ -29,7 +29,7 @@ class Solution {
             j++;
         }
 
-        //south west:
+      
         i=row;
         j=col;
         while(j>=0 && i<n){
@@ -38,7 +38,6 @@ class Solution {
             j--;
         }
 
-        // north west::
         i=row;
         j=col;
         while(i>=0 && j>=0){
