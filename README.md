@@ -9,6 +9,7 @@ Leetcode
 | [0001-two-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0016-3sum-closest) |
+| [0036-valid-sudoku](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0054-spiral-matrix) |
@@ -25,6 +26,7 @@ Leetcode
 | ------- |
 | [0001-two-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0229-majority-element-ii) |
 | [1945-finding-the-users-active-minutes](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
@@ -104,6 +106,7 @@ Leetcode
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
