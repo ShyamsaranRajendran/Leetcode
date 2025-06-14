@@ -21,6 +21,35 @@ class Solution {
                 }
             }
         }
+        StringBuilder palin=new StringBuilder();
+        // for(int i=0;i<=n;i++)
+        // {
+        //     for(int j=0;j<=n;j++)
+        //     {
+        //        System.out.print(dp[i][j]+"\t");
+        //     }
+        //     System.out.println();
+        // }
+        int i=n,j=n;
+        while(i>0 && j>0)
+        {
+            if(s.charAt(i-1)==rev.charAt(j-1))
+            {
+               palin.append(s.charAt(i-1));
+               i--;
+               j--;
+            }else{
+                int up=(i>0)?dp[i-1][j]:0;
+                int left=(j>0)?dp[i][j-1]:0;
+                if(up>=left)
+                {
+                    i--;
+                }else{
+                    j--;
+                }
+            }
+        }
+        System.out.println(palin.reverse().toString());
         return dp[n][n];
     }
 }
