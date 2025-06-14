@@ -14,6 +14,7 @@ Leetcode
 | [0053-maximum-subarray](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -145,6 +146,7 @@ Leetcode
 | ------- |
 | [0051-n-queens](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0078-subsets) |
 ## Trie
 |  |
 | ------- |
@@ -157,4 +159,8 @@ Leetcode
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0175-combine-two-tables) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
