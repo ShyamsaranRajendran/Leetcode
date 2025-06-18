@@ -8,6 +8,7 @@ Leetcode
 | ------- |
 | [0001-two-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0036-valid-sudoku) |
@@ -100,6 +101,7 @@ Leetcode
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0179-largest-number) |
@@ -119,6 +121,7 @@ Leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0031-next-permutation) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
