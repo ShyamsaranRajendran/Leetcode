@@ -25,6 +25,7 @@ Leetcode
 | [0229-majority-element-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0554-brick-wall](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0554-brick-wall) |
+| [0594-longest-harmonious-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -43,6 +44,7 @@ Leetcode
 | [0169-majority-element](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0229-majority-element-ii) |
 | [0554-brick-wall](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0554-brick-wall) |
+| [0594-longest-harmonious-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1945-finding-the-users-active-minutes](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -77,6 +79,7 @@ Leetcode
 | ------- |
 | [0169-majority-element](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -120,6 +123,7 @@ Leetcode
 | [0179-largest-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Heap (Priority Queue)
@@ -198,6 +202,7 @@ Leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Database
