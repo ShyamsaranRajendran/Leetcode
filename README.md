@@ -236,6 +236,7 @@ Leetcode
 | [0084-largest-rectangle-in-histogram](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0735-asteroid-collision) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -264,4 +265,8 @@ Leetcode
 | [0206-reverse-linked-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0328-odd-even-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
