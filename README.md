@@ -19,6 +19,7 @@ Leetcode
 | [0055-jump-game](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0179-largest-number) |
@@ -92,6 +93,7 @@ Leetcode
 | [0002-add-two-numbers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2050-count-good-numbers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2050-count-good-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -233,6 +235,7 @@ Leetcode
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0735-asteroid-collision) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
