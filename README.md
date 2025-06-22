@@ -50,6 +50,7 @@ Leetcode
 | [0229-majority-element-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0229-majority-element-ii) |
 | [0554-brick-wall](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0554-brick-wall) |
 | [0594-longest-harmonious-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1945-finding-the-users-active-minutes](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -187,6 +188,7 @@ Leetcode
 | [0145-binary-tree-postorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0832-binary-tree-pruning) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -201,6 +203,7 @@ Leetcode
 | [0386-lexicographical-numbers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0832-binary-tree-pruning) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -209,6 +212,7 @@ Leetcode
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -222,6 +226,7 @@ Leetcode
 | [0145-binary-tree-postorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0832-binary-tree-pruning) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Enumeration
