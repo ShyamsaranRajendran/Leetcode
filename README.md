@@ -185,6 +185,7 @@ Leetcode
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,11 +196,13 @@ Leetcode
 | [0144-binary-tree-preorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -209,6 +212,7 @@ Leetcode
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
