@@ -15,17 +15,7 @@
  */
 class Solution {
 
-    TreeNode dfs(TreeNode root)
-    {
-        if(root==null || ContainsNoOne(root) )
-        {
-           return null;
-        }  
-        root.left=dfs(root.left);
-        root.right=dfs(root.right);
-
-        return root;
-    }
+    
 
     boolean ContainsNoOne(TreeNode root)
     {
@@ -35,8 +25,34 @@ class Solution {
             return false;
         return ContainsNoOne(root.left) && ContainsNoOne(root.right);
     }
+
     public TreeNode pruneTree(TreeNode root) {
-        root=dfs(root);
+       
+       Queue<TreeNode> q= new LinkedList<>();
+       if(root==null)
+        return root;
+       if(ContainsNoOne(root))
+       {
+          return null;
+       }
+       q.add(root);
+       while(!q.isEmpty())
+       {
+        TreeNode t=q.poll();
+        if(ContainsNoOne(t.left))
+        {
+            t.left=null;
+        }else{
+            q.add(t.left);
+        }
+        if(ContainsNoOne(t.right))
+        {
+            t.right=null;
+        }else{
+            q.add(t.right);
+        }
+       }
+
         return root;
     }
 }
