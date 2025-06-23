@@ -14,70 +14,45 @@
  * }
  */
 class Solution {
-   
-    
-     public static void graph(TreeNode node,TreeNode parent,Map<TreeNode,List<TreeNode>> map)
-    {
-        if(node == null)
-           return ;
-         
-        map.putIfAbsent(node,new ArrayList<>());
-        if(parent != null)
-        {
-            map.get(node).add(parent);
-            map.get(parent).add(node);
-        }
-        
-        graph(node.left,node,map);
-        graph(node.right,node,map);
-    }
-     public static TreeNode FindTarget(int target,TreeNode root)
-    {
-        if(root==null)
-        {
-            return null;
-        }
-        if(root.val==target)
-        {
-            return root;
-        }
-        TreeNode t1=FindTarget(target,root.left);
-        if(t1!=null)
-          return t1;
-        TreeNode t2= FindTarget(target,root.right);
-        if(t2!=null)
-           return t2;
-        return null;
+    static int maxTime = 0;
+
+     public int amountOfTime(TreeNode root, int start)  {
+        maxTime = 0;
+        dfs(root, start);
+        return maxTime;
     }
 
-    public int amountOfTime(TreeNode root, int start) {
-       Map<TreeNode,List<TreeNode>> map= new HashMap<>();
-       graph(root,null,map);
-       Queue<TreeNode> q= new LinkedList<>();
-       Set<TreeNode> set= new HashSet<>();
-       TreeNode Fired=FindTarget(start,root);
-       q.add(Fired);
-       set.add(Fired);
-       int sec=0;
-       while(!q.isEmpty())
-       {
-          int n=q.size();
-          sec++;
-          for(int i=0;i<n;i++)
-          {
-              TreeNode temp=q.poll();
-              for(TreeNode fire:map.get(temp))
-              {
-                  if(!set.contains(fire))
-                  {
-                      set.add(fire);
-                      q.add(fire);
-                  }
-              }
-          }
-       }
-       return sec-1;
+    static int dfs(TreeNode node, int target) {
+        if (node == null) return -1;
+
+        if (node.val == target) {
+            maxDepth(node, 0);
+            return 1; 
+        }
+
+        int left = dfs(node.left, target);
+        if (left != -1) {
+         
+            maxDepth(node.right, left+1);
+            maxTime = Math.max(maxTime, left);
+            return left + 1;
+        }
+
+        int right = dfs(node.right, target);
+        if (right != -1) {
        
-       
+            maxDepth(node.left, right+1);
+            maxTime = Math.max(maxTime, right);
+            return right + 1;
+        }
+
+        return -1;
+    }
+
+    static void maxDepth(TreeNode node, int time) {
+        if (node == null) return;
+        maxTime = Math.max(maxTime, time);
+        maxDepth(node.left, time + 1);
+        maxDepth(node.right, time + 1);
     }
 }
