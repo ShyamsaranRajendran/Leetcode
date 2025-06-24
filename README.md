@@ -28,6 +28,7 @@ Leetcode
 | [0229-majority-element-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0554-brick-wall](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0735-asteroid-collision) |
@@ -49,6 +50,7 @@ Leetcode
 | [0169-majority-element](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0229-majority-element-ii) |
 | [0554-brick-wall](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1945-finding-the-users-active-minutes](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
@@ -314,6 +316,7 @@ Leetcode
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
