@@ -14,30 +14,30 @@
  * }
  */
 class Solution {
-   public int pathSum(TreeNode root, int targetSum) {
+    public int pathSum(TreeNode root, int targetSum) {
         if (root == null) return 0;
+        
+        int count = func(root,targetSum);
 
-        // Count paths starting from this node
-        int count = countFrom(root, targetSum);
-
-        // Recurse on left and right children
-        count += pathSum(root.left, targetSum);
-        count += pathSum(root.right, targetSum);
+        count+= pathSum(root.left,targetSum);
+        count+= pathSum(root.right,targetSum);
 
         return count;
     }
 
-    private int countFrom(TreeNode node, long sum) {
-        if (node == null) return 0;
+    public int func(TreeNode root,long sum){
+        if(root==null) return 0;
 
-        int count = 0;
-        if (node.val == sum) count++;
+        int count=0;
+        
+        if(sum==root.val)
+            count++;
 
-        // Continue down the tree
-        count += countFrom(node.left, sum - node.val);
-        count += countFrom(node.right, sum - node.val);
+        count+= func(root.left,sum-root.val);
+        count+= func(root.right,sum-root.val);
 
         return count;
     }
+
    
 }
