@@ -197,6 +197,7 @@ Leetcode
 | [0404-sum-of-left-leaves](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0832-binary-tree-pruning](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -219,6 +220,7 @@ Leetcode
 | [0404-sum-of-left-leaves](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0832-binary-tree-pruning](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -300,6 +302,7 @@ Leetcode
 | [0155-min-stack](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0735-asteroid-collision) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Monotonic Stack
