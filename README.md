@@ -186,6 +186,7 @@ Leetcode
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -204,6 +205,7 @@ Leetcode
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -221,6 +223,7 @@ Leetcode
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -234,6 +237,7 @@ Leetcode
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
