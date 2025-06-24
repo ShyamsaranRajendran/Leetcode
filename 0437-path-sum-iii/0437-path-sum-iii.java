@@ -15,29 +15,27 @@
  */
 class Solution {
     public int pathSum(TreeNode root, int targetSum) {
-        if (root == null) return 0;
-        
-        int count = func(root,targetSum);
-
-        count+= pathSum(root.left,targetSum);
-        count+= pathSum(root.right,targetSum);
-
-        return count;
+     Map<Long,Integer> map= new HashMap<>();
+     map.put(0L,1);
+     return dfs(root,0,targetSum,map); 
     }
 
-    public int func(TreeNode root,long sum){
-        if(root==null) return 0;
+    int dfs(TreeNode root,long cursum,int target,Map<Long,Integer> map)
+    {
+        if(root == null)
+           return 0;
+        cursum+=root.val;
+        long diff=cursum-target;
+        int count= map.getOrDefault(diff,0);
 
-        int count=0;
-        
-        if(sum==root.val)
-            count++;
+map.put(cursum, map.getOrDefault(cursum, 0) + 1);
 
-        count+= func(root.left,sum-root.val);
-        count+= func(root.right,sum-root.val);
+        count+=dfs(root.left,cursum,target,map);
+        count+=dfs(root.right,cursum,target,map);
 
-        return count;
+        map.put(cursum,map.get(cursum)-1);
+
+        return count;    
     }
 
-   
 }
