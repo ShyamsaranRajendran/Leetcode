@@ -40,6 +40,7 @@ Leetcode
 | [0967-minimum-falling-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1945-finding-the-users-active-minutes](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -148,6 +149,7 @@ Leetcode
 | [0583-delete-operation-for-two-strings](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0967-minimum-falling-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sorting
@@ -201,6 +203,7 @@ Leetcode
 | [0054-spiral-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0054-spiral-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1022-unique-paths-iii) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Simulation
 |  |
