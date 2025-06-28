@@ -75,6 +75,7 @@ Leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -94,6 +95,7 @@ Leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0179-largest-number) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -127,6 +129,7 @@ Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -143,6 +146,7 @@ Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0062-unique-paths) |
