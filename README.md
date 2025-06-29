@@ -44,6 +44,7 @@ Leetcode
 | [0780-max-chunks-to-make-sorted](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0967-minimum-falling-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1022-unique-paths-iii) |
+| [1036-rotting-oranges](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -223,6 +224,7 @@ Leetcode
 | [0200-number-of-islands](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1022-unique-paths-iii) |
+| [1036-rotting-oranges](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1036-rotting-oranges) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Simulation
@@ -289,6 +291,7 @@ Leetcode
 | [0404-sum-of-left-leaves](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
