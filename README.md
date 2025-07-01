@@ -49,6 +49,7 @@ Leetcode
 | [1171-shortest-path-in-binary-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1753-path-with-minimum-effort](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1945-finding-the-users-active-minutes](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -192,6 +193,7 @@ Leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0744-network-delay-time) |
+| [1753-path-with-minimum-effort](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Leetcode
 | [0300-longest-increasing-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1753-path-with-minimum-effort](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -230,6 +233,7 @@ Leetcode
 | [1036-rotting-oranges](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1753-path-with-minimum-effort](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Simulation
 |  |
@@ -283,6 +287,7 @@ Leetcode
 | [0832-binary-tree-pruning](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -302,6 +307,7 @@ Leetcode
 | [1036-rotting-oranges](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -421,6 +427,7 @@ Leetcode
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0200-number-of-islands) |
+| [1753-path-with-minimum-effort](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
