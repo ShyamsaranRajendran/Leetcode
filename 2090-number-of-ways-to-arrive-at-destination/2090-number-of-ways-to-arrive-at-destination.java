@@ -1,57 +1,51 @@
-import java.util.*;
+class Pair {
+    int node;
+    long weight;
+    Pair(int node, long weight) {
+        this.node = node;
+        this.weight = weight;
+    }
+}
 
 class Solution {
-    static class Pair {
-        int node;
-        long time;
-
-        Pair(int node, long time) {
-            this.node = node;
-            this.time = time;
-        }
-    }
+    static int MOD = (int)1e9 + 7;
 
     public int countPaths(int n, int[][] roads) {
-        final int MOD = 1_000_000_007;
-
-        // Step 1: Build graph
+ 
         List<List<Pair>> adj = new ArrayList<>();
         for (int i = 0; i < n; i++) adj.add(new ArrayList<>());
 
         for (int[] road : roads) {
-            int u = road[0], v = road[1];
-            long t = road[2];
-            adj.get(u).add(new Pair(v, t));
-            adj.get(v).add(new Pair(u, t));
+            int u = road[0], v = road[1], w = road[2];
+            adj.get(u).add(new Pair(v, w));
+            adj.get(v).add(new Pair(u, w)); 
         }
 
-        // Step 2: Dijkstra init
         long[] dist = new long[n];
-        int[] ways = new int[n];
         Arrays.fill(dist, Long.MAX_VALUE);
         dist[0] = 0;
+
+        int[] ways = new int[n];
         ways[0] = 1;
 
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> Long.compare(a.time, b.time));
+        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) ->Long.compare(a.weight, b.weight));
         pq.add(new Pair(0, 0));
 
-        // Step 3: Dijkstra with path count
         while (!pq.isEmpty()) {
-            Pair curr = pq.poll();
-            int u = curr.node;
-            long time = curr.time;
+            Pair cur = pq.poll();
+            int u = cur.node;
+            long  d = cur.weight;
 
-            if (time > dist[u]) continue;
-
+            if (d > dist[u]) continue;
             for (Pair neighbor : adj.get(u)) {
                 int v = neighbor.node;
-                long edgeTime = neighbor.time;
+                long wt = neighbor.weight;
 
-                if (dist[v] > dist[u] + edgeTime) {
-                    dist[v] = dist[u] + edgeTime;
+                if (dist[u] + wt < dist[v]) {
+                    dist[v] = dist[u] + wt;
                     ways[v] = ways[u];
                     pq.add(new Pair(v, dist[v]));
-                } else if (dist[v] == dist[u] + edgeTime) {
+                } else if (dist[u] + wt == dist[v]) {
                     ways[v] = (ways[v] + ways[u]) % MOD;
                 }
             }
