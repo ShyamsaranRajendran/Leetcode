@@ -190,6 +190,7 @@ Leetcode
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0744-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
@@ -275,6 +276,7 @@ Leetcode
 | [0404-sum-of-left-leaves](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0744-network-delay-time](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0832-binary-tree-pruning](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -293,6 +295,7 @@ Leetcode
 | [0207-course-schedule](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0207-course-schedule) |
 | [0404-sum-of-left-leaves](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0744-network-delay-time](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0744-network-delay-time) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -420,6 +423,7 @@ Leetcode
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0744-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -432,5 +436,6 @@ Leetcode
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0744-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
