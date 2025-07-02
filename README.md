@@ -11,6 +11,7 @@ Leetcode
 | [0015-3sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0048-rotate-image) |
@@ -218,6 +219,7 @@ Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0300-longest-increasing-subsequence) |
