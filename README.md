@@ -217,6 +217,7 @@ Leetcode
 | [0016-3sum-closest](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -420,6 +421,7 @@ Leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0141-linked-list-cycle) |
