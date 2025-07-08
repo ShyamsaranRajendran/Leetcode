@@ -94,6 +94,7 @@ Leetcode
 | [0171-excel-sheet-column-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -174,6 +175,7 @@ Leetcode
 | [0198-house-robber](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -224,6 +226,7 @@ Leetcode
 | [0151-reverse-words-in-a-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0392-is-subsequence) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
