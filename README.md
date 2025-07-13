@@ -47,6 +47,7 @@ Leetcode
 | [0735-asteroid-collision](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0735-asteroid-collision) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0940-fruit-into-baskets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1036-rotting-oranges) |
@@ -78,6 +79,7 @@ Leetcode
 | [0560-subarray-sum-equals-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0940-fruit-into-baskets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1945-finding-the-users-active-minutes](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -390,6 +392,7 @@ Leetcode
 | [0594-longest-harmonious-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0940-fruit-into-baskets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Database
 |  |
