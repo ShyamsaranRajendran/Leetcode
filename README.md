@@ -137,6 +137,7 @@ Leetcode
 | [0050-powx-n](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -173,6 +174,7 @@ Leetcode
 | [0064-minimum-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -274,6 +276,7 @@ Leetcode
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -348,6 +351,7 @@ Leetcode
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -492,4 +496,8 @@ Leetcode
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
