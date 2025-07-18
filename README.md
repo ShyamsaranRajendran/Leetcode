@@ -90,6 +90,7 @@ Leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0043-multiply-strings](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -135,6 +136,7 @@ Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0062-unique-paths) |
@@ -271,6 +273,7 @@ Leetcode
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0735-asteroid-collision) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
