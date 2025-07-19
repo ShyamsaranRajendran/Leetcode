@@ -92,6 +92,7 @@ Leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0044-wildcard-matching) |
+| [0071-simplify-path](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -415,6 +416,7 @@ Leetcode
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0143-reorder-list) |
