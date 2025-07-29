@@ -24,6 +24,7 @@ Leetcode
 | [0063-unique-paths-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -99,6 +100,7 @@ Leetcode
 | [0044-wildcard-matching](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -272,6 +274,7 @@ Leetcode
 | [0054-spiral-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1022-unique-paths-iii) |
@@ -315,6 +318,7 @@ Leetcode
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0110-balanced-binary-tree) |
@@ -400,6 +404,7 @@ Leetcode
 | [0052-n-queens-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0113-path-sum-ii) |
 | [1022-unique-paths-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1022-unique-paths-iii) |
 ## Trie
