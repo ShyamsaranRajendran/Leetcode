@@ -63,6 +63,7 @@ Leetcode
 | [1945-finding-the-users-active-minutes](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2176-parallel-courses-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2176-parallel-courses-iii) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -277,6 +278,7 @@ Leetcode
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Matrix
 |  |
 | ------- |
@@ -434,6 +436,7 @@ Leetcode
 | [0658-find-k-closest-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Database
 |  |
@@ -483,6 +486,7 @@ Leetcode
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Linked List
 |  |
 | ------- |
