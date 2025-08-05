@@ -310,6 +310,7 @@ Leetcode
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -335,6 +336,7 @@ Leetcode
 | ------- |
 | [0079-word-search](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -388,6 +390,7 @@ Leetcode
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -555,6 +558,7 @@ Leetcode
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0099-recover-binary-search-tree) |
 ## Rolling Hash
 |  |
 | ------- |
