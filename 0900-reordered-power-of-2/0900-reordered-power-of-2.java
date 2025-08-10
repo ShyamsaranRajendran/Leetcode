@@ -2,20 +2,22 @@ import java.util.*;
 
 class Solution {
     public boolean reorderedPowerOf2(int n) {
-        String target = sortDigits(n);
-        
-        Set<String> powerSignatures = new HashSet<>();
-        for (int i = 0; i < 31; i++) { // 2^0 to 2^30 fits in int range
-            int power = 1 << i;
-            powerSignatures.add(sortDigits(power));
-        }
-        
-        return powerSignatures.contains(target);
+       String target=Decode(String.valueOf(n));
+
+       Set<String> set= new HashSet<>();
+
+       for(int i=0;i<=31;i++){
+        int val= 1 << i;
+        String cur=Decode(String.valueOf(val));
+        set.add(cur);
+       }
+
+       return set.contains(target);
     }
-    
-    private String sortDigits(int num) {
-        char[] digits = String.valueOf(num).toCharArray();
-        Arrays.sort(digits);
-        return new String(digits);
+
+    String Decode(String nums){
+        char[]arr=nums.toCharArray();
+        Arrays.sort(arr);
+        return new String(arr);
     }
 }
