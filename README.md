@@ -131,6 +131,7 @@ Leetcode
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
