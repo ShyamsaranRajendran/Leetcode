@@ -1,6 +1,5 @@
 class Solution {
     public String largestGoodInteger(String num) {
-        ArrayList<String> list= new ArrayList<>();
         String res=new String();
         for(int i=0;i<num.length()-2;i++)
         {
