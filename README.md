@@ -169,6 +169,7 @@ Leetcode
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0342-power-of-four](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2050-count-good-numbers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2050-count-good-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -183,6 +184,7 @@ Leetcode
 | [0143-reorder-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
@@ -474,6 +476,7 @@ Leetcode
 | ------- |
 | [0078-subsets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0342-power-of-four](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0342-power-of-four) |
 | [1022-unique-paths-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1022-unique-paths-iii) |
 ## Stack
 |  |
