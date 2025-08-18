@@ -1,20 +1,23 @@
 class Solution {
-    public int func(int i,int []nums,int[]dp)
-    {
-        int n=nums.length;
-        if(i>=n){
+
+    int func(int i,int []nums,int dp[]){
+        if(i>=nums.length){
             return 0;
         }
-        if(dp[i]!=-1) return dp[i];
-        int pick= nums[i] + func(i+2,nums,dp);
-        int skip = func(i+1,nums,dp);
-        return dp[i]=Math.max(pick,skip);
+        
+        if(dp[i]!=-1){
+            return dp[i];
+        }
+
+        int take = nums[i] +  func(i+2,nums,dp);
+        int notTake = func(i+1,nums,dp);
+
+        return dp[i]=Math.max(take,notTake);
     }
     public int rob(int[] nums) {
-        int n= nums.length;
-        int dp[]= new int[n];
+        int dp[]=new int[nums.length];
         Arrays.fill(dp,-1);
-        int res=func(0,nums,dp);
-        return res;
+        int ans= func(0,nums,dp);
+        return ans;
     }
 }
