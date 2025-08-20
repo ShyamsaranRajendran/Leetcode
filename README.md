@@ -28,6 +28,7 @@ Leetcode
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -221,6 +222,7 @@ Leetcode
 | [0096-unique-binary-search-trees](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0152-maximum-product-subarray) |
