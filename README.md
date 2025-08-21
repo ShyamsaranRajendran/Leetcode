@@ -63,6 +63,7 @@ Leetcode
 | [1224-minimum-falling-path-sum-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1945-finding-the-users-active-minutes](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
@@ -241,6 +242,7 @@ Leetcode
 | [1250-longest-common-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -329,6 +331,7 @@ Leetcode
 | [1171-shortest-path-in-binary-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -511,6 +514,7 @@ Leetcode
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -519,6 +523,7 @@ Leetcode
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Combinatorics
 |  |
 | ------- |
