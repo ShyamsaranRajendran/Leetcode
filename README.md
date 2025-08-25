@@ -46,6 +46,7 @@ Leetcode
 | [0377-combination-sum-iv](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0455-assign-cookies) |
+| [0498-diagonal-traverse](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0554-brick-wall](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -337,6 +338,7 @@ Leetcode
 | [0064-minimum-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0967-minimum-falling-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1036-rotting-oranges) |
@@ -354,6 +356,7 @@ Leetcode
 | ------- |
 | [0043-multiply-strings](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0735-asteroid-collision) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Tree
