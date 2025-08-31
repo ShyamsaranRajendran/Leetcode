@@ -15,6 +15,7 @@ Leetcode
 | [0033-search-in-rotated-sorted-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0051-n-queens) |
@@ -92,6 +93,7 @@ Leetcode
 | [0001-two-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -337,6 +339,7 @@ Leetcode
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -482,6 +485,7 @@ Leetcode
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0052-n-queens-ii) |
