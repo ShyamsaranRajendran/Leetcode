@@ -204,6 +204,7 @@ Leetcode
 | [2432-number-of-zero-filled-subarrays](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3830-find-closest-person](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
