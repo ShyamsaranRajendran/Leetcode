@@ -200,6 +200,7 @@ Leetcode
 | [0342-power-of-four](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2050-count-good-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
