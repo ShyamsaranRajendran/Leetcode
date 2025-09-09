@@ -271,6 +271,7 @@ Leetcode
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2176-parallel-courses-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2176-parallel-courses-iii) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -384,6 +385,7 @@ Leetcode
 | [0498-diagonal-traverse](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0735-asteroid-collision) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Tree
 |  |
 | ------- |
@@ -651,6 +653,7 @@ Leetcode
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Binary Search Tree
 |  |
 | ------- |
