@@ -72,6 +72,7 @@ Leetcode
 | [1628-count-submatrices-with-all-ones](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1945-finding-the-users-active-minutes](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -119,6 +120,7 @@ Leetcode
 | [0940-fruit-into-baskets](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1813-maximum-erasure-value](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1945-finding-the-users-active-minutes](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -170,6 +172,7 @@ Leetcode
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1448-maximum-69-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Counting
