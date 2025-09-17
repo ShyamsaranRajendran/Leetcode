@@ -1,48 +1,51 @@
-class Pair {
+class Pair{
     int r, c;
-    Pair(int a, int b) {
-        r = a;
-        c = b;
+    Pair(int r, int c){
+        this.r=r;
+        this.c=c;
     }
 }
-
 class Solution {
     public int shortestPathBinaryMatrix(int[][] grid) {
-        int n = grid.length;
-        if (grid[0][0] != 0 || grid[n - 1][n - 1] != 0) return -1;
+        
+        int n=grid.length;
+        int m=grid[0].length;
 
-        int[] dirR = {-1, -1, -1, 0, 1, 1, 1, 0};
-        int[] dirC = {-1, 0, 1, 1, 1, 0, -1, -1};
-
-        Queue<Pair> q = new LinkedList<>();
-        q.add(new Pair(0, 0));
-        grid[0][0] = 1; // mark visited
-
-        int pathLen = 1;
-
-        while (!q.isEmpty()) {
-            int size = q.size();
-
-            for (int i = 0; i < size; i++) {
-                Pair p = q.poll();
-                int r = p.r;
-                int c = p.c;
-
-                if (r == n - 1 && c == n - 1) return pathLen;
-
-                for (int j = 0; j < 8; j++) {
-                    int newRow = r + dirR[j];
-                    int newCol = c + dirC[j];
-
-                    if (newRow >= 0 && newRow < n && newCol >= 0 && newCol < n && grid[newRow][newCol] == 0) {
-                        grid[newRow][newCol] = 1;
-                        q.add(new Pair(newRow, newCol));
-                    }
-                }
-            }
-            pathLen++;
+        if(grid[0][0]==1 || grid[n-1][m-1]==1){
+            return -1;
         }
 
-        return -1; // no path found
+        Queue<Pair> q=new LinkedList<>();
+        boolean vis[][]=new boolean[n][m];
+        int len=1;
+        q.add(new Pair(0,0));
+        vis[0][0]=true;
+        int dirR[]= {-1, -1, -1, 0, 1, 1, 1, 0};
+        int dirC[]= {-1, 0, 1, 1, 1, 0, -1, -1};
+
+        while(!q.isEmpty()){
+            int size=q.size();
+
+            for (int s = 0; s < size; s++) {
+            Pair p= q.poll();
+            int cr=p.r;
+            int cc=p.c;
+
+            if(cr==n-1 && cc==m-1) return len;
+
+            for(int i=0;i<8;i++){
+                int newrow = cr+dirR[i];
+                int newcol = cc+dirC[i];
+                if(newrow>=0 && newrow <n && newcol >=0  && newcol <m &&
+                 !vis[newrow][newcol] && grid[newrow][newcol]!=1){
+                    q.add(new Pair(newrow,newcol));
+                    vis[newrow][newcol]=true;
+                 }
+            }
+            }
+            len++;
+        }
+
+        return -1;
     }
 }
