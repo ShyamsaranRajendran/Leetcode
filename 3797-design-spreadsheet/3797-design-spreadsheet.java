@@ -1,22 +1,38 @@
 class Spreadsheet {
-    HashMap<String, Integer> mpp = new HashMap<>();
-    public Spreadsheet(int rows) {}
+    Map<String,Integer> map= new HashMap<>();
+
+    public Spreadsheet(int rows) {
+        
+    }
+    
     public void setCell(String cell, int value) {
-        mpp.put(cell, value);
+        map.put(cell,value);
     }
+    
     public void resetCell(String cell) {
-        mpp.put(cell, 0);
+        map.put(cell,0);
     }
+    
     public int getValue(String formula) {
         formula = formula.substring(1);
-        for (int i = 0; i < formula.length(); i++) {
-            if (formula.charAt(i) == '+') {
-                String s1 = formula.substring(0, i), s2 = formula.substring(i + 1);
-                int left = Character.isUpperCase(s1.charAt(0)) ? mpp.getOrDefault(s1, 0) : Integer.parseInt(s1);
-                int right = Character.isUpperCase(s2.charAt(0)) ? mpp.getOrDefault(s2, 0) : Integer.parseInt(s2);
-                return left + right;
+        for(int i=0;i<formula.length();i++)
+        {
+            if(formula.charAt(i)=='+'){
+                String n1=formula.substring(0,i),n2=formula.substring(i+1,formula.length());
+                int cell1=Character.isUpperCase(n1.charAt(0)) ? map.getOrDefault(n1,0) : Integer.parseInt(n1);
+                int cell2=Character.isUpperCase(n2.charAt(0)) ? map.getOrDefault(n2,0) : Integer.parseInt(n2);
+
+                return cell1+cell2;
             }
         }
         return 0;
     }
 }
+
+/**
+ * Your Spreadsheet object will be instantiated and called as such:
+ * Spreadsheet obj = new Spreadsheet(rows);
+ * obj.setCell(cell,value);
+ * obj.resetCell(cell);
+ * int param_3 = obj.getValue(formula);
+ */
