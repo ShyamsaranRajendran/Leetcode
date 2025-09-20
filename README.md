@@ -97,6 +97,7 @@ Leetcode
 | [3748-sort-matrix-by-diagonals](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3791-fruits-into-baskets-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Leetcode
 | [3678-design-task-manager](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -375,6 +377,7 @@ Leetcode
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3791-fruits-into-baskets-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -647,6 +650,7 @@ Leetcode
 | [2429-design-a-food-rating-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3827-implement-router) |
 ## Memoization
 |  |
 | ------- |
@@ -689,6 +693,7 @@ Leetcode
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -717,6 +722,7 @@ Leetcode
 | [2429-design-a-food-rating-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3827-implement-router) |
 ## Bitmask
 |  |
 | ------- |
