@@ -76,6 +76,7 @@ Leetcode
 | [1834-minimum-number-of-people-to-teach](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1945-finding-the-users-active-minutes](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
+| [2023-design-movie-rental-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2176-parallel-courses-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2176-parallel-courses-iii) |
@@ -128,6 +129,7 @@ Leetcode
 | [1813-maximum-erasure-value](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1945-finding-the-users-active-minutes](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
+| [2023-design-movie-rental-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2429-design-a-food-rating-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -330,6 +332,7 @@ Leetcode
 | [0744-network-delay-time](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3678-design-task-manager) |
 ## Quickselect
@@ -647,6 +650,7 @@ Leetcode
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0155-min-stack) |
+| [2023-design-movie-rental-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -718,6 +722,7 @@ Leetcode
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2429-design-a-food-rating-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3678-design-task-manager) |
