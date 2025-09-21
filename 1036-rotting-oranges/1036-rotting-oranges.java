@@ -1,61 +1,51 @@
 class Pair{
-    int first,second;
+    int a,b;
     Pair(int a,int b)
     {
-        first=a;
-        second=b;
+        this.a=a;
+        this.b=b;
     }
 }
 
 class Solution {
     public int orangesRotting(int[][] grid) {
+        int fresh=0,n=grid.length,m=grid[0].length;
+        Queue<Pair> q= new LinkedList<>();
         int time=0;
-        int cntfresh=0;
-        int n=grid.length;
-        int m=grid[0].length;
-        Queue<Pair> q=new LinkedList<>();
-
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
             {
-                if(grid[i][j]==2)
-                {
+                if(grid[i][j]==2){
                     q.add(new Pair(i,j));
-                }else if(grid[i][j]==1)
+                }
+                if(grid[i][j]==1)
+                 fresh++;
+            }
+        }
+             
+        while(!q.isEmpty() && fresh >0){
+            int size=q.size();
+            int dirR[]={-1,1,0,0};
+            int dirC[]={0,0,-1,1};
+            time++;
+            for(int i=0;i<size;i++)
+            {
+                Pair p=q.poll();
+                int r=p.a;
+                int c=p.b;
+                for(int j=0;j<4;j++)
                 {
-                    cntfresh++;
+                   int newR= r + dirR[j];
+                   int newC= c + dirC[j];
+                   if(newR >= 0 && newC >= 0 && newR < n && newC <m  && grid[newR][newC]==1){
+                        q.add(new Pair(newR,newC));
+                        grid[newR][newC]=2;
+                        fresh--;
+                   }
                 }
             }
         }
-        
-        int dirR[]={-1,1,0,0};
-        int dirC[]={0,0,-1,1};
-
-        while(!q.isEmpty() && cntfresh >0)
-        {
-            int size=q.size();
-            for(int i=0;i<size;i++)
-            {
-          Pair p=q.poll();
-          int row=p.first;
-          int col=p.second;
-
-          for(int j=0;j<4;j++)
-          {
-            int newrow=row+dirR[j];
-            int newcol=col+dirC[j];
-
-            if(newrow >=0&& newrow <n && newcol>=0 && newcol<m && grid[newrow][newcol]==1)
-            {
-                grid[newrow][newcol]=2;
-                q.add(new Pair(newrow,newcol));
-                cntfresh--;
-            }
-          }
-            }
-          time++;
-        }
-        return cntfresh==0 ? time : -1;
+        return fresh>0 ? -1 : time;
     }
 }
