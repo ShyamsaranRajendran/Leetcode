@@ -88,6 +88,7 @@ Leetcode
 | [2429-design-a-food-rating-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -134,6 +135,7 @@ Leetcode
 | [2429-design-a-food-rating-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -205,6 +207,7 @@ Leetcode
 | [0594-longest-harmonious-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
