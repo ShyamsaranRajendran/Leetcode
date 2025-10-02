@@ -244,6 +244,7 @@ Leetcode
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3336-water-bottles-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -438,6 +439,7 @@ Leetcode
 | [1642-water-bottles](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3336-water-bottles-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Tree
 |  |
 | ------- |
