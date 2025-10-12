@@ -110,6 +110,7 @@ Leetcode
 | [3791-fruits-into-baskets-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -259,6 +260,7 @@ Leetcode
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -326,6 +328,7 @@ Leetcode
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sorting
 |  |
 | ------- |
@@ -634,6 +637,7 @@ Leetcode
 | [1022-unique-paths-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1022-unique-paths-iii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Stack
 |  |
 | ------- |
@@ -670,6 +674,7 @@ Leetcode
 | [0062-unique-paths](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -783,6 +788,7 @@ Leetcode
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Geometry
 |  |
 | ------- |
