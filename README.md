@@ -106,6 +106,7 @@ Leetcode
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -430,6 +431,7 @@ Leetcode
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3827-implement-router) |
 ## Matrix
