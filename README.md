@@ -196,6 +196,7 @@ Leetcode
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -551,6 +552,7 @@ Leetcode
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -576,6 +578,7 @@ Leetcode
 | [1036-rotting-oranges](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -613,6 +616,7 @@ Leetcode
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
