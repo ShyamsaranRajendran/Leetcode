@@ -111,6 +111,7 @@ Leetcode
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -377,6 +378,7 @@ Leetcode
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
@@ -447,6 +449,7 @@ Leetcode
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3827-implement-router) |
 ## Matrix
@@ -653,6 +656,7 @@ Leetcode
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Database
 |  |
 | ------- |
@@ -713,6 +717,7 @@ Leetcode
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Linked List
 |  |
 | ------- |
