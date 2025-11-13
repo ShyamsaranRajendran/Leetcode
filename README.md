@@ -213,6 +213,7 @@ Leetcode
 | [2887-sort-vowels-in-a-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -239,6 +240,7 @@ Leetcode
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Counting
 |  |
@@ -254,6 +256,7 @@ Leetcode
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
