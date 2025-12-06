@@ -111,6 +111,7 @@ Leetcode
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -370,6 +371,7 @@ Leetcode
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -690,6 +692,7 @@ Leetcode
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -756,6 +759,7 @@ Leetcode
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Linked List
@@ -830,6 +834,7 @@ Leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
@@ -886,4 +891,8 @@ Leetcode
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
