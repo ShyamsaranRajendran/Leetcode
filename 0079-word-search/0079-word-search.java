@@ -1,42 +1,39 @@
-public class Solution {
-    public boolean exist(char[][] board, String word) {
-        int m = board.length;
-        int n = board[0].length;
+class Solution {
 
-        boolean[][] visited = new boolean[m][n];
-        boolean result = false;
-        
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (board[i][j] == word.charAt(0)) {
-                    result = backtrack(board, word, visited, i, j, 0);
-                    if (result) return true;
+    public boolean func(int i,int j,char board[][],boolean vis[][],String target,int ind){
+        if(target.length()==ind){
+            return true;
+        }
+
+        if(i>= board.length || j>= board[0].length || i<0 || j<0 || board[i][j]!=target.charAt(ind) || vis[i][j]){
+            return false;
+        }
+
+        vis[i][j]=true;
+        ind++;
+
+        boolean found = (func(i+1,j,board,vis,target,ind)
+        || func(i,j+1,board,vis,target,ind) 
+        ||func(i-1,j,board,vis,target,ind) 
+        ||func(i,j-1,board,vis,target,ind));
+
+        vis[i][j]=false;
+
+        return found;
+    }
+    public boolean exist(char[][] board, String word) {
+        boolean res;
+        int n=board.length;
+        int m=board[0].length;
+        boolean vis[][]=new boolean[n][m];
+        int ind=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(func(i,j,board,vis,word,ind)){
+                    return true;
                 }
             }
         }
-        
-        return false;
-    }
-    
-    private boolean backtrack(char[][] board, String word, boolean[][] visited, int i, int j, int index) {
-        if (index == word.length()) {
-            return true;
-        }
-        
-        if (i < 0 || i >= board.length || j < 0 || j >= board[0].length || visited[i][j] || board[i][j] != word.charAt(index)) {
-            return false;
-        }
-        
-        visited[i][j] = true;
-        
-        if (backtrack(board, word, visited, i + 1, j, index + 1) ||
-            backtrack(board, word, visited, i - 1, j, index + 1) ||
-            backtrack(board, word, visited, i, j + 1, index + 1) ||
-            backtrack(board, word, visited, i, j - 1, index + 1)) {
-            return true;
-        }
-        
-        visited[i][j] = false;
         return false;
     }
 }
