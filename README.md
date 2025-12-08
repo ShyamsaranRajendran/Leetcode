@@ -286,6 +286,7 @@ Leetcode
 | [1448-maximum-69-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1448-maximum-69-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1642-water-bottles) |
+| [1925-count-square-sum-triples](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -654,6 +655,7 @@ Leetcode
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
