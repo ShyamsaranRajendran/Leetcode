@@ -28,6 +28,7 @@ Leetcode
 | [0079-word-search](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -340,6 +341,7 @@ Leetcode
 | [0064-minimum-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0097-interleaving-string) |
@@ -497,6 +499,7 @@ Leetcode
 | [0063-unique-paths-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -732,6 +735,7 @@ Leetcode
 | ------- |
 | [0071-simplify-path](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -753,6 +757,7 @@ Leetcode
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0402-remove-k-digits) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
