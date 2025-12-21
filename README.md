@@ -203,6 +203,7 @@ Leetcode
 | [0402-remove-k-digits](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [1106-parsing-a-boolean-expression](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1170-shortest-common-supersequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -320,6 +321,7 @@ Leetcode
 | [0234-palindrome-linked-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0394-decode-string) |
+| [1106-parsing-a-boolean-expression](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -752,6 +754,7 @@ Leetcode
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1106-parsing-a-boolean-expression](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2211-count-collisions-on-a-road](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
