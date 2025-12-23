@@ -3,7 +3,7 @@ class Solution {
     int func(int ind,int prev,int[]nums,int dp[][]){
         if(ind==nums.length) return 0;
 
-        if(prev!=-1 && dp[ind][prev]!=-1) return dp[ind][prev];
+        if(dp[ind][prev+1]!=-1) return dp[ind][prev+1];
 
         int nottake =  func(ind+1,prev,nums,dp);
         int take=0;
@@ -11,14 +11,11 @@ class Solution {
         if(prev==-1 || nums[ind] > nums[prev])
             take = 1 + func(ind+1,ind,nums,dp);
 
-        if(prev!=-1)
-          return dp[ind][prev]=Math.max(nottake,take);
-        else
-          return Math.max(nottake,take);
+          return dp[ind][prev+1]=Math.max(nottake,take);
     }
     public int lengthOfLIS(int[] nums) {
         int n=nums.length;
-        int dp[][]= new int[n][n];
+        int dp[][]= new int[n][n+1];
         int ans=0;
         for(int d[]:dp)
         Arrays.fill(d,-1);
