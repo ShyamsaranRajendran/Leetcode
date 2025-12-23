@@ -1,19 +1,28 @@
 class Solution {
+
+    int func(int ind,int prev,int[]nums,int dp[][]){
+        if(ind==nums.length) return 0;
+
+        if(prev!=-1 && dp[ind][prev]!=-1) return dp[ind][prev];
+
+        int nottake =  func(ind+1,prev,nums,dp);
+        int take=0;
+
+        if(prev==-1 || nums[ind] > nums[prev])
+            take = 1 + func(ind+1,ind,nums,dp);
+
+        if(prev!=-1)
+          return dp[ind][prev]=Math.max(nottake,take);
+        else
+          return Math.max(nottake,take);
+    }
     public int lengthOfLIS(int[] nums) {
-        int[] tails = new int[nums.length];
-        int size = 0;
-        for (int x : nums) {
-            int i = 0, j = size;
-            while (i != j) {
-                int m = (i + j) / 2;
-                if (tails[m] < x)
-                    i = m + 1;
-                else
-                    j = m;
-            }
-            tails[i] = x;
-            if (i == size) ++size;
-        }
-        return size;
+        int n=nums.length;
+        int dp[][]= new int[n][n];
+        int ans=0;
+        for(int d[]:dp)
+        Arrays.fill(d,-1);
+        ans= func(0,-1,nums,dp);
+        return ans;
     }
 }
