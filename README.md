@@ -121,6 +121,7 @@ Leetcode
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -181,6 +182,7 @@ Leetcode
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -454,6 +456,7 @@ Leetcode
 | [1917-maximum-average-pass-ratio](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3678-design-task-manager) |
 ## Quickselect
@@ -563,6 +566,7 @@ Leetcode
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
 |  |
@@ -843,6 +847,7 @@ Leetcode
 | [0234-palindrome-linked-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -925,6 +930,7 @@ Leetcode
 | [2023-design-movie-rental-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2429-design-a-food-rating-system](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3827-implement-router) |
@@ -957,4 +963,8 @@ Leetcode
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
