@@ -470,6 +470,7 @@ Leetcode
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3678-design-task-manager) |
 ## Quickselect
 |  |
@@ -911,6 +912,7 @@ Leetcode
 | ------- |
 | [0744-network-delay-time](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0744-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Queue
 |  |
 | ------- |
@@ -985,4 +987,8 @@ Leetcode
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
