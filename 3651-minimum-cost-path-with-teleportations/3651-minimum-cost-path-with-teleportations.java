@@ -1,78 +1,56 @@
 class Solution {
+    static final int INF = 1000000000;
+    int rows = 0, cols = 0, maxval = 0;
+
+    void dp_iteration(int[][] dp, int[] best_teleport, int[][] grid) {
+        for (int r = rows - 1; r >= 0; --r) {
+            for (int c = cols - 1; c >= 0; --c) {
+                int walk = ((r != rows - 1) || (c != cols - 1)) ? INF : 0;
+                if (r + 1 < rows) walk = Math.min(walk, dp[r + 1][c] + grid[r + 1][c]);
+                if (c + 1 < cols) walk = Math.min(walk, dp[r][c + 1] + grid[r][c + 1]);
+                dp[r][c] = Math.min(walk, best_teleport[grid[r][c]]);
+            }
+        }
+    }
+
+    int[] build_teleport(int[][] dp, int[][] grid) {
+        int[] teleport = new int[maxval + 1];
+        for (int i = 0; i <= maxval; ++i) teleport[i] = INF;
+
+        // First build mincost for each v = value
+        for (int r = 0; r < rows; ++r)
+            for (int c = 0; c < cols; ++c)
+                teleport[grid[r][c]] = Math.min(teleport[grid[r][c]], dp[r][c]);
+
+        // Then build prefix mincost for v <= value
+        for (int v = 0; v <= maxval; ++v)
+            teleport[v] = Math.min(teleport[v], v > 0 ? teleport[v - 1] : INF);
+
+        return teleport;
+    }
+
     public int minCost(int[][] grid, int k) {
-        int n = grid.length, m = grid[0].length;
-        
-        // 1. Find the Maximum Value in the grid to size our helper arrays
-        int maxVal = 0;
-        for(int[] row : grid) {
-            for(int val : row) maxVal = Math.max(maxVal, val);
+        rows = grid.length; cols = grid[0].length;
+        maxval = 0;
+        for (int r = 0; r < rows; ++r)
+            for (int c = 0; c < cols; ++c)
+                if (grid[r][c] > maxval) maxval = grid[r][c];
+
+        int[] best_teleport = new int[maxval + 1];
+        for (int i = 0; i <= maxval; ++i) best_teleport[i] = INF;
+
+        int[][] dp = new int[rows][cols];
+        for (int r = 0; r < rows; ++r)
+            for (int c = 0; c < cols; ++c)
+                dp[r][c] = INF;
+
+        dp[rows - 1][cols - 1] = 0; // zero cost to reach dest from dest
+
+        for (int t = 0; t <= k; ++t) { // t teleports allowed
+            dp_iteration(dp, best_teleport, grid);
+            best_teleport = build_teleport(dp, grid);
         }
 
-        // dp[i][j] = Min cost to reach (n-1, m-1) from (i, j)
-        int[][] dp = new int[n][m];
-        
-        // temp[v] = Min cost starting from ANY cell with value 'v'
-        int[] temp = new int[maxVal + 1];
-        int[] best = new int[maxVal + 1];
-        
-        Arrays.fill(temp, Integer.MAX_VALUE);
-        
-        // Base Case: Cost from target to target is 0. 
-        // Note: The cost is incurred when ENTERING a cell. 
-        // We consider the target reached, so starting at target has 0 *additional* cost.
-        temp[grid[n - 1][m - 1]] = 0;
-
-        // --- INITIALIZATION (K=0) ---
-        // Fill DP table using standard walking rules (Right/Down)
-        for(int i = n - 1; i >= 0; i--) {
-            for(int j = m - 1; j >= 0; j--) {
-                if(i == n - 1 && j == m - 1) continue; // Skip target
-                
-                int down = (i + 1 < n) ? dp[i + 1][j] + grid[i + 1][j] : Integer.MAX_VALUE;
-                int right = (j + 1 < m) ? dp[i][j + 1] + grid[i][j + 1] : Integer.MAX_VALUE;
-                
-                dp[i][j] = Math.min(down, right);
-                
-                // Update the best known cost for this cell's value
-                if (dp[i][j] != Integer.MAX_VALUE) {
-                    temp[grid[i][j]] = Math.min(temp[grid[i][j]], dp[i][j]);
-                }
-            }
-        }
-
-        // --- LAYERS (K > 0) ---
-        // For each allowed teleport, we try to relax the grid costs
-        for(int x = 0; x < k; x++) {
-            
-            // 1. Build Prefix Minimum Array
-            // best[v] = min cost obtainable from any cell with value <= v
-            best[0] = temp[0];
-            for(int v = 1; v <= maxVal; v++) {
-                best[v] = Math.min(best[v - 1], temp[v]);
-            }
-            
-            // 2. Update DP Table with Teleport Options
-            for(int i = n - 1; i >= 0; i--) {
-                for(int j = m - 1; j >= 0; j--) {
-                    if(i == n - 1 && j == m - 1) continue;
-                    
-                    int down = (i + 1 < n) ? dp[i + 1][j] + grid[i + 1][j] : Integer.MAX_VALUE;
-                    int right = (j + 1 < m) ? dp[i][j + 1] + grid[i][j + 1] : Integer.MAX_VALUE;
-                    int walkCost = Math.min(down, right);
-                    
-                    // Teleport Option: Jump to the best state with value <= grid[i][j]
-                    int teleportCost = best[grid[i][j]];
-                    
-                    dp[i][j] = Math.min(walkCost, teleportCost);
-                    
-                    // Update temp for the NEXT iteration
-                    if (dp[i][j] != Integer.MAX_VALUE) {
-                        temp[grid[i][j]] = Math.min(temp[grid[i][j]], dp[i][j]);
-                    }
-                }
-            }
-        }
-        
         return dp[0][0];
     }
 }
