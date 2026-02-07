@@ -241,6 +241,7 @@ Leetcode
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -416,6 +417,7 @@ Leetcode
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -836,6 +838,7 @@ Leetcode
 | [0943-sum-of-subarray-minimums](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1106-parsing-a-boolean-expression](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
