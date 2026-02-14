@@ -204,6 +204,7 @@ Leetcode
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -265,6 +266,7 @@ Leetcode
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -889,6 +891,7 @@ Leetcode
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Linked List
