@@ -788,6 +788,7 @@ Leetcode
 | [0093-restore-ip-addresses](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1022-unique-paths-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1022-unique-paths-iii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -830,6 +831,7 @@ Leetcode
 | [0187-repeated-dna-sequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1022-unique-paths-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1022-unique-paths-iii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
