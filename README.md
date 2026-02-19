@@ -239,6 +239,7 @@ Leetcode
 | [0402-remove-k-digits](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0696-count-binary-substrings](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1048-longest-string-chain](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1048-longest-string-chain) |
 | [1106-parsing-a-boolean-expression](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
@@ -537,6 +538,7 @@ Leetcode
 | [0455-assign-cookies](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1048-longest-string-chain](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1048-longest-string-chain) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
