@@ -451,6 +451,7 @@ Leetcode
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -910,6 +911,7 @@ Leetcode
 | [0560-subarray-sum-equals-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
