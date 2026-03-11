@@ -850,6 +850,7 @@ Leetcode
 | [0342-power-of-four](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1009-complement-of-base-10-integer](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1022-unique-paths-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
