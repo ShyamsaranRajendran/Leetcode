@@ -304,6 +304,7 @@ Leetcode
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Counting
 |  |
@@ -582,6 +583,7 @@ Leetcode
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1074,5 +1076,14 @@ Leetcode
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
