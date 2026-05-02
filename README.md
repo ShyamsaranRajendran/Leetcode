@@ -347,6 +347,7 @@ Leetcode
 | [0342-power-of-four](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0372-super-pow) |
+| [0788-rotated-digits](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -436,6 +437,7 @@ Leetcode
 | [0416-partition-equal-subset-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0788-rotated-digits](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0788-rotated-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
