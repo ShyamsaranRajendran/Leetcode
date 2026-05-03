@@ -247,6 +247,7 @@ Leetcode
 | [0696-count-binary-substrings](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0796-rotate-string) |
 | [1048-longest-string-chain](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1048-longest-string-chain) |
 | [1106-parsing-a-boolean-expression](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1170-shortest-common-supersequence](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -1099,5 +1100,6 @@ Leetcode
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
