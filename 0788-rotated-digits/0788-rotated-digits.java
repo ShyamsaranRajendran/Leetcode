@@ -15,11 +15,13 @@ class Solution {
 
         while(num!=0){
 
-            if(num==3 || num==4 || num==7){
+            int digit = num%10;
+
+            if(digit==3 || digit==4 || digit==7){
                 return false;
             }
 
-            if(num==2 || num== 5 || num==9 || num==6){
+            if(digit==2 || digit== 5 || digit==9 || digit==6){
                 hasChanged =true;
             }
             num/=10;
