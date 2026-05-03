@@ -1,33 +1,28 @@
 class Solution {
     public int rotatedDigits(int n) {
-        int count = 0;
-
-        for (int i = 1; i <= n; i++) {
-            if (isGood(i)) {
+        int count=0;
+        for(int i=1;i<=n;i++){
+            if(isGood(i)){
                 count++;
             }
         }
-
         return count;
     }
 
-    private boolean isGood(int num) {
+    public boolean isGood(int num){
+        
         boolean hasChanged = false;
 
-        while (num > 0) {
-            int digit = num % 10;
+        while(num!=0){
 
-            // invalid digit
-            if (digit == 3 || digit == 4 || digit == 7) {
+            if(num==3 || num==4 || num==7){
                 return false;
             }
 
-            // changing digit
-            if (digit == 2 || digit == 5 || digit == 6 || digit == 9) {
-                hasChanged = true;
+            if(num==2 || num== 5 || num==9 || num==6){
+                hasChanged =true;
             }
-
-            num /= 10;
+            num/=10;
         }
 
         return hasChanged;
