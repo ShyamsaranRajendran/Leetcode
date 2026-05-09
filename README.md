@@ -98,6 +98,7 @@ Leetcode
 | [1834-minimum-number-of-people-to-teach](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1861-rotating-the-box](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1914-cyclically-rotating-a-grid](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1945-finding-the-users-active-minutes](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -630,6 +631,7 @@ Leetcode
 | [1628-count-submatrices-with-all-ones](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -648,6 +650,7 @@ Leetcode
 | [0735-asteroid-collision](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1642-water-bottles) |
+| [1914-cyclically-rotating-a-grid](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
