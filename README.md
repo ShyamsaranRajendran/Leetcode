@@ -81,6 +81,7 @@ Leetcode
 | [1171-shortest-path-in-binary-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1345-jump-game-iv](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -196,6 +197,7 @@ Leetcode
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1048-longest-string-chain) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1345-jump-game-iv](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -772,6 +774,7 @@ Leetcode
 | [1036-rotting-oranges](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1345-jump-game-iv](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1345-jump-game-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
