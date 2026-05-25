@@ -133,6 +133,7 @@ Leetcode
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -420,6 +421,7 @@ Leetcode
 | [0372-super-pow](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0372-super-pow) |
 | [0761-special-binary-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
@@ -477,6 +479,7 @@ Leetcode
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -1060,6 +1063,7 @@ Leetcode
 ## Segment Tree
 |  |
 | ------- |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
