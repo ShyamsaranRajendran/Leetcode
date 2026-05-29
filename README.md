@@ -137,6 +137,7 @@ Leetcode
 | [3242-count-elements-with-maximum-frequency](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -390,6 +391,7 @@ Leetcode
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
