@@ -16,6 +16,7 @@ Leetcode
 | [0035-search-insert-position](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0051-n-queens) |
@@ -433,6 +434,7 @@ Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0055-jump-game) |
@@ -574,6 +576,7 @@ Leetcode
 | [0016-3sum-closest](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0086-partition-list) |
@@ -910,6 +913,7 @@ Leetcode
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -936,6 +940,7 @@ Leetcode
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0402-remove-k-digits) |
