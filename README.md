@@ -402,6 +402,7 @@ Leetcode
 | [3676-smallest-number-with-all-set-bits](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -500,6 +501,7 @@ Leetcode
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3660-jump-game-ix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sorting
 |  |
