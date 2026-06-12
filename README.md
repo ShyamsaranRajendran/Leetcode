@@ -149,6 +149,7 @@ Leetcode
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -402,6 +403,7 @@ Leetcode
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -498,6 +500,7 @@ Leetcode
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -737,6 +740,7 @@ Leetcode
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -781,6 +785,7 @@ Leetcode
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -922,6 +927,7 @@ Leetcode
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
