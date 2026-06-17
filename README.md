@@ -300,6 +300,7 @@ Leetcode
 | [3462-vowels-game-in-a-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3614-process-string-with-special-operations-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -705,6 +706,7 @@ Leetcode
 | [3379-transformed-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3614-process-string-with-special-operations-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
 |  |
