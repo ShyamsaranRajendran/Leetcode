@@ -298,6 +298,7 @@ Leetcode
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -338,6 +339,7 @@ Leetcode
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -404,6 +406,7 @@ Leetcode
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -882,6 +885,7 @@ Leetcode
 | [0756-pyramid-transition-matrix](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1022-unique-paths-iii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/1022-unique-paths-iii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
 | ------- |
@@ -1140,6 +1144,7 @@ Leetcode
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Queue
 |  |
