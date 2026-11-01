@@ -54,6 +54,7 @@ Leetcode
 | [0403-frog-jump](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0554-brick-wall](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0554-brick-wall) |
@@ -383,6 +384,7 @@ Leetcode
 | [0342-power-of-four](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0372-super-pow) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0788-rotated-digits](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/ShyamsaranRajendran/Leetcode/tree/master/0900-reordered-power-of-2) |
